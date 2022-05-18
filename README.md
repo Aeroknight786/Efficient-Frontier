@@ -170,5 +170,4 @@ def EF_graph(meanReturns, covMatrix, riskFreeRate = 0, constraintSet = (0,1)):
   
 EF_graph(meanReturns, covMatrix)
 ```
-
-![image](https://user-images.githubusercontent.com/51220035/169169623-289f5f25-3d63-465c-ac0b-e7e851bdd8c6.png)
+![image](https://user-images.githubusercontent.com/51220035/169169692-3019c7d3-fb89-418a-8932-1c31498a65a8.png)
