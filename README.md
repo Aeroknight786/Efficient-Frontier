@@ -17,3 +17,5 @@ def getData(stocks, start, end):
   covMatrix = returns.cov()
   return meanReturns, covMatrix
 ```
+![image](https://user-images.githubusercontent.com/51220035/169164116-2f15a885-cdfd-4692-aded-f97400d535b1.png)
+![Uploading image.png…]()
