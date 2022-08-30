@@ -1,5 +1,5 @@
 # Efficient-Frontier
-Link to Repository: https://github.com/Aeroknight786/Efficient-Frontier
+Link to Repository: https://github.com/Aeroknight786/Efficient-Frontier.
 We implement an Efficient Frontier that plots the optimal expected portfolio return against a certain level of risk measured by portfolio variance. This is achieved by 
 constraint optimisation using predefined portfolio constraints and iterating across expected levels of return from the Lowest-Variance portfolio to the maximum possible return of the portfolio with the maximum Sharpe Ratio. We define various constraints to calculate the weightings for the minVar portfolio(Minimum Variance), the MaxSR(Maximum Sharpe Ratio Portfolio) and the optimisation required to calculate variances after the optimal return weightings for all the target returns that lie between. This requires us to define portfolio performance functions which will be the focus of our code in the beginning. 
 
